@@ -64,9 +64,9 @@ Squelettisation d’une carte de vue du ciel, cours des 50 otages, Nantes.
 <sup>Parcours à Nantes 2km</sup>
 
 ## Objet
-![plan-01.png](images/plan-01.png)  
+![plan-01.jpg](images/plan-01.jpg)  
 
-![plan-02.png](images/plan-02.png)  
+![plan-02.jpg](images/plan-02.jpg)  
 
 ![bassinsdelumiere.jpg](images/bassinsdelumiere.jpg)
 
