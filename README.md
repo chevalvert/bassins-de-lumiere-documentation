@@ -18,12 +18,18 @@ Langage :
 - x5 micro-contrôleurs `ESP32`
 - x1 ` `
 - x1 ` `
+- x1 ` `
+- x1 ` `
 - x10 matrice LED flexible `WS2812B (16x16 Pixel)`  
 - Power supply 5V 80A `UHP-500-5` refroidissement passif
 - Tablette
 
+![hardware.png](images/hardware.png)   
+
 ## Câblage
-![cablage-global.jpg](images/cablage-global.jpg)  
+![cablage-global.jpg](images/cablage-global.jpg)   
+
+![prototype.gif](images/prototype.gif)  
 
 ## Connectique
 RaspberryPi en tête qui connecte les 5 micro-contrôleur en USB. On vient alors parler en RJ45 au RPi qui dispatch sur les micro-contrôleurs. RaspberryPi en hôte de l'animation et en serveur, configuré en AP Wifi.
@@ -58,12 +64,20 @@ Squelettisation d’une carte de vue du ciel, cours des 50 otages, Nantes.
 <sup>Parcours à Nantes 2km</sup>
 
 ## Objet
-![bassinsdelumiere.png](images/bassinsdelumiere.png)
+![plan-01.png](images/plan-01.png)  
+
+![plan-02.png](images/plan-02.png)  
+
+![bassinsdelumiere.jpg](images/bassinsdelumiere.jpg)
 
 ## Interface
 ![interface.jpg](images/interface.jpg)  
 
 ## Visualisation
-![utilisateur.jpg](images/utilisateur.jpg)  
+![utilisateur.jpg](images/utilisateur.jpg)   
+
+![utilisateur-01.jpg](images/utilisateur-01.jpg)
+
+![bassinsdelumiere-on-01.gif](images/bassinsdelumiere-on-01.gif) ![bassinsdelumiere-on-02.gif](images/bassinsdelumiere-on-02.gif)
 
 
