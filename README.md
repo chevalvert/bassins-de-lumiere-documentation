@@ -6,12 +6,12 @@ Dispositif d’exploration spatio-temporelle des bassins de visibilité.
 Une interaction gestuelle permet à l’utilisateur de se déplacer visuellement au sein de cette fossilisation d’une promenade, pour en redécouvrir la temporalité et la spatialité.
 
 ## Ecosystème Bassins de lumière
-- [`bassins-de-lumiere`]() : Bassins de lumière main app
+- [`bassins-de-lumiere`](https://github.com/chevalvert/bassins-de-lumiere) : Bassins de lumière main app
 - `bassins-de-lumiere-documentation` : Bassins de lumière hardware, hookup & misc guides
 
 ## Développement
-Environnement :  
-Langage :
+Environnement : [Node.js](https://nodejs.org/en/)  
+Langage : [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Matériel
 - Raspberry Pi
